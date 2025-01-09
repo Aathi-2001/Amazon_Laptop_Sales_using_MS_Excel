@@ -1,4 +1,4 @@
-***Amazon Laptop Sales Analysis Using MS Excel
+### Amazon Laptop Sales Analysis Using MS Excel
 
 This analysis provides an insightful overview of Amazon laptop sales, leveraging key performance indicators (KPIs) and visual tools for an in-depth understanding of sales trends and inventory status. 
 
