@@ -1,15 +1,40 @@
 ### Amazon Laptop Sales Analysis Using MS Excel
 
-This analysis provides an insightful overview of Amazon laptop sales, leveraging key performance indicators (KPIs) and visual tools for an in-depth understanding of sales trends and inventory status. 
+### *Project Description*
 
-The KPIs include *Total Sales*, *Sale Product Count*, and *Available Stock*, offering a comprehensive summary of the overall sales performance and stock availability. These metrics serve as a quick reference for assessing the business's current standing.
+#### *Summary*  
+I developed an Excel dashboard titled *"Amazon Laptop Sales Dashboard"*, designed to provide comprehensive insights into laptop sales performance and stock analysis. The dashboard features interactive KPIs, filters, and advanced visualizations, enabling data-driven decisions for sales targeting, inventory tracking, and brand performance evaluation.
 
-A **Pie Chart** showcases the *Top 3 Brands* based on product count, providing a visual representation of the most popular brands among customers. This helps identify market leaders and focus on brand-specific strategies.
+#### *Key Insights*  
+1. **KPI and Filter Overview**:  
+   - Displays Total Sales, Sale Product Count, and Available Stock as KPIs.  
+   - KPIs are dynamically linked to table values and include a filter for Brands.  
 
-The **Stock Analysis** is further broken down by RAM categories, displayed in a *Column Chart*. This segment highlights stock levels for various RAM configurations, giving insights into inventory distribution. A slicer is integrated into the chart, allowing dynamic filtering based on price and customer rating, enabling a tailored analysis to align with user preferences.
+2. **Brand and Stock Analysis**:  
+   - **Top 3 Brand Analysis**: Visualized using a pie chart based on product count.  
+   - **Stock Analysis**: Uses a column-line combo chart to show stock distribution by RAM category and a bar chart for total available stock.  
+   - Filters for Price and Customer Ratings allow detailed data exploration.  
 
-This Excel dashboard is designed to streamline data interpretation and assist in decision-making processes for sales optimization, inventory management, and market strategy development.
+3. **Targeted Sales and Ratings Insights**:  
+   - Focuses on **Apple Brand Sales** with total sales ranking displayed in a tree map.  
+   - A table highlights top-rated products, showcasing maximum total sales by Ratings and Brands, specifically for 5-star products.  
 
-Tools & Platforms - Microsoft Excel, Pivot Tables, Charts Visulaisation.
+4. **Interactive Navigation**:  
+   - Includes buttons for seamless navigation between data sources, pivot tables, and pivot charts, enhancing user accessibility and workflow efficiency.  
+
+#### *Key Benefits*  
+The *Amazon Laptop Sales Dashboard* offers a complete view of sales and inventory data by:  
+- Tracking and visualizing total sales and product counts across brands and categories.  
+- Analyzing stock trends with RAM-specific insights and available stock monitoring.  
+- Providing targeted brand insights, focusing on high-performing products like Apple laptops.  
+- Enabling interactive data exploration with filters for price and ratings.  
+
+#### *Tools and Techniques Used*  
+- **Microsoft Excel**: For data preprocessing, visualization, and dynamic dashboard creation.  
+- **Pivot Tables and Charts**: For aggregating and analyzing sales data effectively.  
+- **Interactive Buttons**: For user-friendly navigation across dashboard components.  
+- **Dynamic Visualizations**: Pie charts, bar charts, tree maps, and combo charts for enhanced insights.  
+
+This project demonstrates the effective use of Excel for creating dynamic dashboards that offer actionable insights into sales performance, inventory management, and product targeting.
 
 ![Aathithiyan_V_Amazon_Sales_Dashboard](https://github.com/user-attachments/assets/4da30e27-94d8-4d19-ba21-dfd7ef328f75)
